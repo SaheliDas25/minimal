@@ -1,6 +1,11 @@
-title: Saheli Das
+title: <p align="center"> Sajan Kedia </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/saheli-das-343bb7147/">LinkedIn</a> |
+  <a href="https://github.com/SaheliDas25">GitHub</a>
+  
+
+
 theme: jekyll-theme-minimal
