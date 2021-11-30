@@ -4,17 +4,20 @@
 ### Salary-Satisfaction-Prediction 
 
 the prediction of salary of employees and the Salary-Satisfaction depending on employee's data using RandomForestRegressor
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SaheliDas25/Salary-Satisfaction-Prediction)
 
 
 ### ASHRAE---Great-Energy-Predictor-III
 
 Predict Energy consumption of current year using stacking regressor.
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SaheliDas25/ASHRAE---Great-Energy-Predictor-III)
 
 ### Document-Classification-with-CNN
 
 Here we have total of 20 types of documents(Text files) and total 18828 documents(text files).from document name, we can extract the label for that document.Now we need to classify all the documents into any one of the class.
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SaheliDas25/Document-Classification-with-CNN)
 
 
