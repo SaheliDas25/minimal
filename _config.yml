@@ -1,6 +1,15 @@
-title: Minimal theme
+title: <p align="center"> Saheli Das </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/saheli-das-343bb7147/">LinkedIn</a> |
+  <a href="https://github.com/SaheliDas25">GitHub</a>
+  
+  <br>   
+  With an immense experience in Lighting Field, I am currently pursuing AI/ML course from a recognised platform and looking to pursue my Carrier in Data Science Domain. .
+  <br>
+  </p>
+
+
 theme: jekyll-theme-minimal
