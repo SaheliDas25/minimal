@@ -39,3 +39,18 @@ Age of patient at time of operation (numerical) Patient's year of operation (yea
 objective is to predict whether the patient will survive after 5 years or not based upon the patient’s age, year of treatment and the number of positive lymph nodes.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SaheliDas25/EDA-on-Haberman-s-Survival-Data-Set)
+
+
+### EDA-Lending Club Case Study
+LendingClub is the world’s first online marketplace lending platform, bringing borrowers and investors together and transforming the way people access credit.When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. 
+Two types of risks are associated with the bank’s decision:
+
+1.If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+
+2.If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
+
+Business Objectives:
+
+The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SaheliDas25/Lending-Club-Case-Study)
